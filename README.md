@@ -22,7 +22,7 @@ Un système de gestion de livraison de colis développé en Java utilisant des t
 
 ## Structure du Projet
 ```
-projet-livraison/
+projet-parallele/
 ├── src/
 │   ├── Colis.java
 │   ├── EtatColis.java
@@ -67,7 +67,7 @@ java InterfaceLivraisonColis
 - Gestion avancée des erreurs
 
 ## Auteur
-[Votre Nom]
+#### Rabie Houssaini
 
 ## Licence
 Projet open-source sous licence MIT
